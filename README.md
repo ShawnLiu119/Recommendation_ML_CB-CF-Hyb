@@ -1,2 +1,6 @@
 # Recommendation_ML_CB-CF-Hyb
-an walkthrough of all ML-based recommendation system including CB, CF, Hybrid
+This is an walkthrough of all ML-based recommendation system including CB(content-based), CF(Collaborative filtering), Hybrid
+
+Reference:
+https://medium.com/analytics-vidhya/content-based-collaborative-and-their-hybrid-approaches-for-recommendation-making-to-e-commence-e2015830a04f
+
